@@ -1,0 +1,6 @@
+__pycache__
+venv
+graphics.py
+main.py
+world_map.json
+world_map.png
